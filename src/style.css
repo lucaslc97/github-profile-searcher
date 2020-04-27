@@ -1,0 +1,148 @@
+*{
+    color: white;
+}
+
+
+.cont
+{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    margin-top: 30px;
+    flex-wrap: wrap;
+}
+
+.cont .home{
+    margin-top: 60px;
+    width: 60% ;
+    background-color: rgb(214, 147, 54);
+    border-radius: 10px;
+    justify-content: center;
+}
+
+
+
+.busca
+{
+    display: flex;
+}
+
+
+.perfil
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+
+.perfil-filho
+{
+    display: flex;
+    justify-self: center;
+    flex-direction: row;
+    padding: 0;
+    margin: 0;
+}
+
+
+
+
+i
+{
+    margin-top: 30px;
+    margin-left: 43%;
+}
+
+
+
+h1
+{
+    text-align: center;
+}
+
+
+h2
+{
+    text-align: center;
+}
+
+.home p
+{
+    margin: 20px 80px 20px 80px;
+    text-align: justify;
+}
+
+
+nav
+{
+    margin-top: 50px;
+    margin-bottom: 20px;
+    width: 100%;    
+    display: flex;
+    justify-content: center;
+}   
+
+nav .link 
+{
+
+    background-color: rgba(226, 190, 251, 0.609);
+    text-align: center;
+    margin: 0px 20px 0px 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    width: 150px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: black;
+    border: solid 1px black;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.548);
+    transition: all 8ms;
+}
+
+nav .link:hover 
+{
+    background-color: rgba(226, 190, 251, 0.822);
+    box-shadow:  0px 0px 0px black;;
+}
+
+input
+{
+    color: black;
+}
+
+input[type=button]
+{
+    margin: 10px;
+    border: none;
+    width: 80px;
+    height: 25px;
+}
+
+.span-perf
+{
+    margin-left: 25%;
+}
+img
+{
+    width: 200px;
+    height: 200px;
+    box-sizing: border-box;
+    border: solid 2px black;
+    margin-left: 30px;
+}
+article
+{
+    margin-left: 30px;
+   width: 100%;
+}
+form
+{
+    margin-left: 20%;
+    margin-top: 30px;
+}
+
+.linkP
+{
+    margin-left: 30px;
+}
