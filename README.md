@@ -4,6 +4,11 @@ O projeto ainda falta algumas funcionalidades.
 Para conseguir acessar clique neste link '[Entrar](https://jolly-hodgkin-f43a04.netlify.app/)' ou siga os passos em inglês a seguir:
 
 
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
