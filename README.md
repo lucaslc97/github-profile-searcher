@@ -1,3 +1,9 @@
+Este é um pequeno projeto com o intuito de aprendizado da biblioteca React JS. Este projeto se trata de um buscado de perfil no Github utilizando a API do proprio Github para isso.
+O projeto ainda falta algumas funcionalidades.
+
+
+## Para conseguir acessar o projeto faça os passos a seguir: 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
